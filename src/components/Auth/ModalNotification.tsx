@@ -88,3 +88,4 @@ const ModalNotification: FunctionComponent<ModalNotificationProps> = ({
 export default ModalNotification;
 # Change 3 on 2019-01-31
 # Change 2 on 2019-01-30
+# Change 3 on 2019-02-09
