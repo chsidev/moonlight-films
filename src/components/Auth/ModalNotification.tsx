@@ -90,3 +90,4 @@ export default ModalNotification;
 # Change 2 on 2019-01-30
 # Change 3 on 2019-02-09
 # Change 0 on 2019-02-07
+# Change 2 on 2019-03-05
